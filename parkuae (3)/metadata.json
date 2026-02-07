@@ -1,0 +1,9 @@
+
+{
+  "description": "Smart Parking & Fleet Management for the UAE.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "name": "ParkUAE"
+}
