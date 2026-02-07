@@ -1,0 +1,8 @@
+{
+  "name": "ParkSmart UAE",
+  "description": "Smart parking assistant for Dubai, Abu Dhabi, and the Northern Emirates. Helps detect parking, identify zones, manage active sessions, and provides unmissable notifications for renewals.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
